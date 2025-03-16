@@ -11,6 +11,10 @@ Bill Of Material:
  * 2 x 10k ohm resistor
  * 1 x Encoder
 
+
+VIDEO:   https://www.youtube.com/shorts/QgDcTDn86s8
+
+
  The firmware is a custom version of ATS_EX project
  By Goshante  (http://github.com/goshante/ats20_ats_ex).
  
