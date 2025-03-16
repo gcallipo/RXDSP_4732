@@ -3,20 +3,13 @@ This is a very simple receiver built with pre-assembled modules. The receiver is
 
 Bill Of Material:
 
-1 x Arduino NANO
-
-1 x OLED Display 128x64
-
-1 x Module UVK5 IOTCU V5.0 4732
-
-1 x Module TDA1308 
-
-6 x Push button
-
-2 x 10k ohm resistor
-
-1 x Encoder
-
+ * 1 x Arduino NANO
+ * 1 x OLED Display 128x64
+ * 1 x Module UVK5 IOTCU V5.0 4732
+ * 1 x Module TDA1308 
+ * 6 x Push button
+ * 2 x 10k ohm resistor
+ * 1 x Encoder
 
  The firmware is a custom version of ATS_EX project
  By Goshante  (http://github.com/goshante/ats20_ats_ex).
