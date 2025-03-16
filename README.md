@@ -14,9 +14,7 @@ Bill Of Material:
 
 VIDEO:   https://www.youtube.com/shorts/QgDcTDn86s8
 
-
- The firmware is a custom version of ATS_EX project
- By Goshante  (http://github.com/goshante/ats20_ats_ex).
+ The firmware is a custom version of ATS_EX project by Goshante
  
  You can use any ATS 20 firmware with few changes ( controls and connections )
 
